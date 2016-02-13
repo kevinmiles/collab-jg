@@ -1,0 +1,22 @@
+{
+  "active": true,
+  "labId": "collab-jg",
+  "title": "Collaboration: Jabber Guest - Web",
+  "slug": "Learn how to embed Cisco Jabber Guest voice and video capabilities into a sample Web application",
+  "poweredBy": "<a href=\"https://developer.cisco.com/site/devnet/sandbox/\" target=\"_blank\">DevNet Sandbox</a>",   
+  "time": "5",
+  "tags": [
+    {"title" : "Collaboration"},
+    {"title": "Jabber Guest"},
+    {"title": "Beginner"}
+  ],
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"},
+    {"title": "3.md"}
+  ],
+  "byod": true,
+  "authors": [
+  	{"name": "", "email": ""}
+  ]
+}
